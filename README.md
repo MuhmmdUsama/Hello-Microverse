@@ -1,38 +1,19 @@
 # Hello-Microverse
-Description the project.
 
+First Project in Microverse
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
 
 **This is an example for a repo.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
@@ -41,7 +22,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@muhmmdusama](https://github.com/muhmmdusama)
 - Twitter: [@muhmmdusama](https://twitter.com/muhmmdusama)
 - LinkedIn: [muhmmdusama](https://linkedin.com/in/muhmmdusama)
-
 
 ## 🤝 Contributing
 
@@ -57,4 +37,3 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
