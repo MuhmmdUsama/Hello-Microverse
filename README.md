@@ -7,10 +7,6 @@ First Project in Microverse
 - Html
 - Css
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
 ## Getting Started
 
 **This is an example for a repo.**
