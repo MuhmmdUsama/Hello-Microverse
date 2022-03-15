@@ -38,9 +38,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/muhmmdusama)
-- Twitter: [@twitterhandle](https://twitter.com/muhmmdusama)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/muhmmdusama)
+- GitHub: [@muhmmdusama](https://github.com/muhmmdusama)
+- Twitter: [@muhmmdusama](https://twitter.com/muhmmdusama)
+- LinkedIn: [muhmmdusama](https://linkedin.com/in/muhmmdusama)
 
 
 ## 🤝 Contributing
